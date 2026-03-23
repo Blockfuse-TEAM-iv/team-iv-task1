@@ -29,6 +29,8 @@ Country: Nigeria
 Hobby: Coding
 */
 
+let name = "solex"
+let age = 34
 let country = "Nigeria"
 let hobby = "Gaming"
 console.log(`Name: ${name}\n
