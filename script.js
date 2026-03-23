@@ -28,3 +28,11 @@ Age: 34
 Country: Nigeria
 Hobby: Coding
 */
+
+let country = "Nigeria"
+let hobby = "Gaming"
+console.log(`Name: ${name}\n
+             Age: ${age}\n
+             Country: ${country}\n
+             Hobby: ${hobby}`
+)
