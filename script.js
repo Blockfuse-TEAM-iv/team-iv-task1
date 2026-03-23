@@ -17,7 +17,8 @@ let lastName = "john";
 let myCountry = "india";
 let job = "developer";
 
-let bio = firstName + " " + " is a " + " " + job + " " + "from" + " " + myCountry + ".";
+let bio = `${firstName} is a ${job} from ${myCountry}.`;
+// let bio = firstName + " " + " is a " + " " + job + " " + "from" + " " + myCountry + ".";
 
 console.log(bio);
 
