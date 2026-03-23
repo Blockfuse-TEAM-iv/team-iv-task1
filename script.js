@@ -29,12 +29,9 @@ Country: Nigeria
 Hobby: Coding
 */
 
-let name = "solex"
+let name = "Solex"
 let age = 34
 let country = "Nigeria"
 let hobby = "Gaming"
-console.log(`Name: ${name}\n
-             Age: ${age}\n
-             Country: ${country}\n
-             Hobby: ${hobby}`
+console.log(`Name: ${name}\nAge: ${age}\nCountry: ${country}\nHobby: ${hobby}`
 )
