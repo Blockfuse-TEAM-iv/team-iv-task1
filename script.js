@@ -3,6 +3,11 @@
 
 "Your quote here" - Author Name
 */
+// 1. Store a quote and author, then print
+let quote = "The only limit to our realization of tomorrow is our doubts of today.";
+let author = "Franklin D. Roosevelt";
+
+console.log(`"${quote}" - ${author}`);
 
 /* by john
 2. Create a user biography builder using the following variables:
