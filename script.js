@@ -28,3 +28,5 @@ Age: 34
 Country: Nigeria
 Hobby: Coding
 */
+let name = "solex"
+let age = 34
