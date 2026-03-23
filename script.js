@@ -9,16 +9,21 @@ let author = "Franklin D. Roosevelt";
 
 console.log(`"${quote}" - ${author}`);
 
-/* by john
-2. Create a user biography builder using the following variables:
-- firstName
-- lastName
-- country
-- job
+//  by john
+//  Create a user biography builder using the following variables:
+
+let firstName = "Andrew";
+let lastName = "john";
+let myCountry = "india";
+let job = "developer";
+
+let bio = firstName + " " + " is a " + " " + job + " " + "from" + " " + myCountry + ".";
+
+console.log(bio);
 
 Output:
 "Andrew is a developer from India."
-*/
+
 
 /*
 by temi & scholar
