@@ -46,5 +46,4 @@ let name = "Solex"
 let age = 34
 let country = "Nigeria"
 let hobby = "Gaming"
-console.log(`Name: ${name}\nAge: ${age}\nCountry: ${country}\nHobby: ${hobby}`
-)
+console.log(`Name: ${name}\nAge: ${age}\nCountry: ${country}\nHobby: ${hobby}`)
